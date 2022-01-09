@@ -1,7 +1,12 @@
 
-
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nursaharii&langs_count=10&layout=compact&theme=nord" /></a>
- <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=nursaharii&theme=nord&show_icons=true" /></a>
+<table>
+  <tbody>
+    <tr>
+      <td><a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nursaharii&langs_count=10&layout=compact&theme=nord" /></a></td>
+      <td><a><img align="center" src="https://github-readme-stats.vercel.app/api?username=nursaharii&theme=nord&show_icons=true" /></a></td>
+    </tr>
+  </tbody>
+  </table>
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
