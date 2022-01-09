@@ -1,7 +1,7 @@
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nursaharii&show_icons=true&locale=en&layout=compact" alt="nursaharii" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nursaharii&show_icons=true&locale=en" alt="nursaharii" /></p>
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nursaharii&langs_count=10&layout=compact&theme=nord" /></a>
+ <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=nursaharii&theme=nord&show_icons=true" /></a>
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
